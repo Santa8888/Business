@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+[data-dpr="1"] .fz22{ font-size:11px;}
+[data-dpr="2"] .fz22{ font-size:22px;}
+[data-dpr="3"] .fz22{ font-size:44px;} 
+
+[data-dpr="1"] .fz24{ font-size:12px;}
+[data-dpr="2"] .fz24{ font-size:24px;}
+[data-dpr="3"] .fz24{ font-size:48px;} 
+
+[data-dpr="1"] .fz26{ font-size:13px;}
+[data-dpr="2"] .fz26{ font-size:26px;}
+[data-dpr="3"] .fz26{ font-size:52px;} 
+
+[data-dpr="1"] .fz36{ font-size:18px;}
+[data-dpr="2"] .fz36{ font-size:36px;}
+[data-dpr="3"] .fz36{ font-size:72px;} 
+
+
